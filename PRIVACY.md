@@ -1,0 +1,61 @@
+PRIVACY POLICY
+
+# 隐私政策
+
+生效日期：2026 年 10 月 19 日 · 适用于 ReelFlow 本地视频播放器 · [English](#privacy-policy)
+
+## 1. 我们不收集应用数据
+
+ReelFlow 不收集、上传、出售或共享你的视频、文件名、播放记录或设置。应用无需账号，不含广告、第三方分析 SDK 或追踪服务，也不提供云端视频库或内容服务器。
+
+## 2. 在设备上处理哪些信息
+
+当你通过系统“文件”选择视频，或将视频交给 ReelFlow 打开时，应用会在自己的容器中保存独立副本，并生成视频缩略图、名称、时长、文件大小和可选播放位置。设置和记录以本地文件保存，用于展示视频库、排序和续播。这些信息不会被发送给开发者。
+
+选择 iCloud Drive 或第三方文件提供商的文件时，下载与文件访问由你选择的系统文件服务处理，并受该服务自身的政策约束。ReelFlow 仅使用你主动选择的文件，不扫描相册、联系人或其他文件。
+
+## 3. 分享和外部页面
+
+你主动使用系统分享菜单时，所选视频会按你的选择交给目标应用或文件服务，后续处理由你选择的服务负责。打开本网站或 GitHub 支持链接时，系统会交给浏览器或目标应用处理；这不会自动上传你的本地视频或播放记录。
+
+## 4. 保存期限、删除和控制
+
+视频副本保留到你在视频库中删除，或者卸载 ReelFlow。删除副本不会删除“文件”中的原视频。你可以关闭“记住播放位置”，也可以在设置中清除已保存的播放记录。卸载应用会移除应用容器中的本地数据；设备备份由你的系统和 iCloud 设置控制。
+
+我们不持有这些本地文件，无法在服务器上替你删除或恢复它们。需要删除你主动提交的公开支持问题时，请通过下方渠道联系维护者，并遵循 GitHub 的相关政策。
+
+## 5. 支持请求和网站托管
+
+如果你通过 GitHub Issues 联系我们，你主动填写的问题、附件、GitHub 用户名及平台信息会按 GitHub 的政策处理。Issues 是公开的，请不要提交私人视频、登录凭据或其他敏感资料。我们仅将你主动提供的信息用于处理请求，不在 App 内自动收集诊断数据。
+
+本网站通过 GitHub Pages 托管，不使用广告、分析脚本、追踪像素或外部字体。GitHub 可能为网站运行、安全和维护记录网络请求信息（例如 IP 地址和浏览器信息），详见 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
+
+## 6. 联系与更新
+
+维护者：[GitHub @Ryderwe](https://github.com/Ryderwe)。如有隐私或数据问题，请通过 [隐私问题渠道](https://github.com/Ryderwe/reelflow-support/issues/new?labels=privacy&title=Privacy%20request) 联系。政策变更会更新本页日期；如应用的数据处理方式改变，也会同步更新商店隐私信息。
+
+## Privacy Policy
+
+Effective October 19, 2026 · ReelFlow local video player
+
+### No app data collection
+
+ReelFlow does not collect, upload, sell, or share your videos, filenames, playback history, or preferences. There are no accounts, advertisements, tracking, analytics SDKs, cloud libraries, or content servers.
+
+### Local files and processing
+
+The app accesses videos you explicitly select in Files or open with ReelFlow. It stores a separate copy, a thumbnail, title, duration, file size, and optional resume position within the app container. Preferences and history stay on your device. Files selected from iCloud Drive or another file provider are handled by that provider under its own policies. The app does not scan your photo library, contacts, or other documents.
+
+### Your choices and deletion
+
+You can delete a library copy without deleting its original, disable resume tracking, or clear playback records in Settings. Copies remain until you delete them or uninstall the app. Uninstalling removes the app container; device backups follow your system and iCloud settings. The developer cannot remotely access, delete, or restore these local files. Sharing a video is initiated by you and sends only the selected file to your chosen app or service.
+
+### Support and this website
+
+Opening a support link does not upload your library. Information you choose to submit through GitHub Issues is processed under GitHub's policies and may be public. Do not include private videos, credentials, or other sensitive information. We use information you voluntarily submit only to respond to your request; the app does not automatically collect diagnostics.
+
+This site is hosted on GitHub Pages without analytics, ads, external fonts, or tracking scripts. GitHub may process request logs such as IP addresses and browser information for hosting, security, and maintenance. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+### Contact
+
+Maintainer: [@Ryderwe](https://github.com/Ryderwe). Contact us through [our privacy support channel](https://github.com/Ryderwe/reelflow-support/issues/new?labels=privacy&title=Privacy%20request). Changes to this policy will be published here with an updated date, and changes to app data practices will also be reflected in its App Store privacy information.

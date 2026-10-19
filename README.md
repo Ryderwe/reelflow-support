@@ -1,10 +1,19 @@
-# ReelFlow 支持站点
+# ReelFlow · 支持与隐私
 
-此目录只包含本地视频播放器的公开帮助、联系支持与隐私政策。无用户数据、视频或登录凭据，无统计脚本、广告、远程字体。
+ReelFlow 是仅播放用户本地文件的视频播放器，无需账号和内容源。
 
-发布目标：`Ryderwe/reelflow-support` 的 GitHub Pages，根目录来自 `main` 分支。应用代码仓库与完整版分支不发布。
+- [使用帮助与联系支持](SUPPORT.md)
+- [隐私政策 / Privacy Policy](PRIVACY.md)
+- [提交支持问题](https://github.com/Ryderwe/reelflow-support/issues/new?title=ReelFlow%20support)
 
-- 支持页面：`https://ryderwe.github.io/reelflow-support/support.html`
-- 隐私政策：`https://ryderwe.github.io/reelflow-support/privacy.html`
+GitHub Issues 需要 GitHub 登录，内容公开；请不要上传私人视频或登录凭据。
 
-支持渠道是维护者 @Ryderwe 的公开 GitHub Issues，需要 GitHub 登录；页面对此有明确说明。没有虚构联系邮箱。
+GitHub Pages 站点配置为：
+
+- https://ryderwe.github.io/reelflow-support/
+- https://ryderwe.github.io/reelflow-support/privacy.html
+- https://ryderwe.github.io/reelflow-support/support.html
+
+如 Pages 服务暂时故障，可直接使用本仓库的 Markdown 政策和帮助页面，阅读不需要登录。
+
+此仓库仅含静态帮助和政策页面，无应用源码、用户数据、视频或凭据，无分析/追踪脚本。
